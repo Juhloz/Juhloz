@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Juhloz
+- 👀 I’m interested in finance, technology and coding
+- 🌱 I’m currently learning python when I'm not studying international business or working as a research analyst
+- 📫 Head over to my website for ways to reach me: rasmusjuhl.com
